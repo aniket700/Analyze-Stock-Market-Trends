@@ -1,0 +1,36 @@
+Sum of Close Price	Column Labels					
+Row Labels	HDFC	INFY	ITC	RELIANCE	TCS	Grand Total
+2024	118266.01	120565.81	127322.89	115577.96	113944.1	595676.77
+Grand Total	118266.01	120565.81	127322.89	115577.96	113944.1	595676.77
+
+
+Row Labels	Sum of Volume
+HDFC	162351917
+INFY	174588915
+ITC	169983101
+RELIANCE	164459015
+TCS	182385074
+Grand Total	853768022
+
+
+Row Labels	Min of Low Price
+HDFC	963.26
+INFY	988.19
+ITC	985.95
+RELIANCE	995.41
+TCS	1011.7
+Grand Total	963.26
+
+
+Sum of Close Price	Column Labels					
+Row Labels	HDFC	INFY	ITC	RELIANCE	TCS	Grand Total
+2024	118266.01	120565.81	127322.89	115577.96	113944.1	595676.77
+Grand Total	118266.01	120565.81	127322.89	115577.96	113944.1	595676.77
+
+
+												
+	Column Labels											
+	HDFC		INFY		ITC		RELIANCE		TCS		Total Sum of Close Price	Total Sum of previous day’s closing price
+Row Labels	Sum of Close Price	Sum of previous day’s closing price	Sum of Close Price	Sum of previous day’s closing price	Sum of Close Price	Sum of previous day’s closing price	Sum of Close Price	Sum of previous day’s closing price	Sum of Close Price	Sum of previous day’s closing price		
+2024	118266.01	2719290	120565.81	2719290	127322.89	2719290	115577.96	2719290	113944.1	2719290	595676.77	13596450
+Grand Total	118266.01	2719290	120565.81	2719290	127322.89	2719290	115577.96	2719290	113944.1	2719290	595676.77	13596450

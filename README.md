@@ -20,6 +20,7 @@ Automated data refresh in Power BI to keep the dashboard updated with new stock 
 ✅ Identified profitable stocks based on historical trends and price movement.
 ✅ Gained insights into stock volatility and seasonal trends for better decision-making.
 
+
 "C:\Users\anike\OneDrive\Pictures\Screenshots\Screenshot (53).png"
 
 
